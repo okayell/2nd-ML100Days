@@ -1,4 +1,4 @@
-
+# 第二屆《機器學習百日馬拉松》
 * DAY1: 資料分析與評估
 * DAY2: EDA-1/讀取資料EDA: Data summary
 * DAY3: 3-1如何新建一個 dataframe? 3-2 如何讀取其他資料? (非 csv 的資料)

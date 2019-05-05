@@ -12,3 +12,9 @@
 * DAY11: EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)
 * DAY12: EDA: 把連續型變數離散化
 * DAY13: 程式實作 把連續型變數離散化
+* DAY14: Subplots
+* DAY15: Heatmap & Grid-plot
+* DAY16: 模型初體驗 Logistic Regression
+* DAY17: 特徵工程簡介
+* DAY18: 特徵類型
+* DAY19: 數值型特徵-補缺失值與標準化

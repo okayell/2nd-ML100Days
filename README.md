@@ -27,3 +27,40 @@
 * DAY26: 特徵組合-數值與數值組合
 * DAY27: 特徵組合-類別與數值組合
 * DAY28: 特徵選擇
+* DAY29: 特徵評估
+* DAY30: 分類型特徵優化-葉編碼
+* DAY31: 機器學習概論
+* DAY32: 機器學習-流程與步驟
+* DAY33: 機器如何學習
+* DAY34: 訓練/測試集切分的概念
+* DAY35: Regression v.s Classification
+* DAY36: 評估指標選定/Evaluation metrics
+* DAY37: Regression model介紹-線性回歸/羅吉斯回歸
+* DAY38: Regression model-線性/羅吉斯回歸模型程式碼撰寫
+* DAY39: Regression model介紹-LASSO回歸/Ridge回歸
+* DAY40: Regression model-LASSO/Ridge回歸程式碼撰寫
+* DAY41: Tree based model-決策樹(Desion Tree)模型介紹
+* DAY42: Tree based model-決策樹程式碼撰寫
+* DAY43: Tree based model-隨機森林(Random Forest)介紹
+* DAY44: Tree based model-隨機森林程式碼撰寫
+* DAY45: Tree based model-梯度提升機(Gradient Boosting Machine)介紹
+* DAY46: Tree based model-梯度提升機程式碼撰寫
+* DAY47: 超參數調整與優化
+* DAY48: Kaggle競賽平台介紹
+* DAY49: 集成方法:混合泛化(Blending)
+* DAY50: 集成方法:堆疊泛化(Stacking)
+** 非監督式機器學習
+* DAY51: 
+* DAY52: 
+* DAY53: 
+* DAY54: 
+* DAY55: 
+* DAY56: 
+* DAY57: 
+* DAY58: 
+* DAY59: 
+* DAY60: 
+* DAY61: 
+* DAY62: 
+* DAY63: 
+* DAY64: 

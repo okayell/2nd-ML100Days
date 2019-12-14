@@ -16,6 +16,7 @@
 * DAY14: Subplots
 * DAY15: Heatmap & Grid-plot
 * DAY16: 模型初體驗 Logistic Regression
+### 資料科學特徵工程技術
 * DAY17: 特徵工程簡介
 * DAY18: 特徵類型
 * DAY19: 數值型特徵-補缺失值與標準化
@@ -30,6 +31,7 @@
 * DAY28: 特徵選擇
 * DAY29: 特徵評估
 * DAY30: 分類型特徵優化-葉編碼
+### 機器學習基礎模型建立
 * DAY31: 機器學習概論
 * DAY32: 機器學習-流程與步驟
 * DAY33: 機器如何學習
@@ -46,22 +48,26 @@
 * DAY44: Tree based model-隨機森林程式碼撰寫
 * DAY45: Tree based model-梯度提升機(Gradient Boosting Machine)介紹
 * DAY46: Tree based model-梯度提升機程式碼撰寫
+### 機器學習調整參數
 * DAY47: 超參數調整與優化
 * DAY48: Kaggle競賽平台介紹
 * DAY49: 集成方法:混合泛化(Blending)
 * DAY50: 集成方法:堆疊泛化(Stacking)
-## 非監督式機器學習
-* DAY51: 
-* DAY52: 
-* DAY53: 
-* DAY54: 
-* DAY55: 
-* DAY56: 
-* DAY57: 
-* DAY58: 
-* DAY59: 
-* DAY60: 
-* DAY61: 
-* DAY62: 
-* DAY63: 
-* DAY64: 
+### 非監督式機器學習
+* DAY51: -
+* DAY52: -
+* DAY53: -
+* DAY54: Clustering1 - 非監督式機器學習簡介
+* DAY55: Clustering2 - 聚類算法
+* DAY56: K-mean觀察:使用輪廓分析
+* DAY57: Clustering3 - 階層分群算法
+* DAY58: 階層分群法觀察:使用2D樣板資料集
+* DAY59: Dimension Reduction1 - 降維方法-主成份分析
+* DAY60: PCA觀察:使用手寫辨識資料集
+* DAY61: Dimension Reduction2 - 降維方法-T-SNE
+* DAY62: T-SNE觀察:分群與流形還原
+### 深度學習理論與實作
+* DAY63: 神經網路介紹
+* DAY64: 深度學習體驗:模型調整與學習曲線
+* DAY65: 深度學習體驗:啟動函數與正規化
+

@@ -54,9 +54,6 @@
 * DAY49: 集成方法:混合泛化(Blending)
 * DAY50: 集成方法:堆疊泛化(Stacking)
 ### 非監督式機器學習
-* DAY51: -
-* DAY52: -
-* DAY53: -
 * DAY54: Clustering1 - 非監督式機器學習簡介
 * DAY55: Clustering2 - 聚類算法
 * DAY56: K-mean觀察:使用輪廓分析
